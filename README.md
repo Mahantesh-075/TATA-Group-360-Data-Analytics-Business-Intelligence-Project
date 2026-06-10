@@ -23,7 +23,7 @@ The TATA Group is not just a company — it contributes **4.57% of India's GDP**
 ---
 
 ## Dashboard Modules
-Visit Dashboard : (https://mahantesh-075.github.io/TATA-Group-360-Data-Analytics-Business-Intelligence-Project/Dashboard/app.py)
+[Visit Dashboard]([https://mahantesh-075.github.io/TATA-Group-360-Data-Analytics-Business-Intelligence-Project/Dashboard/app.py](https://tata-group-360-data-analytics-business-intelligence-project-ne.streamlit.app/))
 
 ### Module 1: Conglomerate Overview
 - Revenue treemap by sector (16 sectors)
