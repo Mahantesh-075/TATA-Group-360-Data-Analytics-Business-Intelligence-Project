@@ -171,10 +171,9 @@ tata-analytics/
 
 ## Author
 
-**Mahantesh** (1DA23EC075)  
+**MAHANTESH BASAVARAJ HAVELI** (1DA23EC075)  
 B.E. ECE, 6th Semester  
-DR. AIT, Bengaluru  
-*Portfolio project for TCS NQT Campus Recruitment*
+DR. AIT, Bengaluru
 
 ---
 
