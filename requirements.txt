@@ -1,0 +1,24 @@
+# ──────────────────────────────────────────────
+# TATA Group 360° Analytics — Dependencies
+# ──────────────────────────────────────────────
+
+# Core Data
+pandas>=2.0
+numpy>=1.24
+xlrd>=2.0.1
+
+# Visualization
+plotly>=5.15
+matplotlib>=3.7
+seaborn>=0.12
+
+# Dashboard
+streamlit>=1.30
+
+# Forecasting
+statsmodels>=0.14
+
+# Utilities
+openpyxl>=3.1
+lxml>=4.9
+html5lib>=1.1
